@@ -1,6 +1,8 @@
 # Sprint Review
 
-El Sprint Review es una reunión que se realiza al final de cada sprint para revisar el trabajo completado, obtener feedback y planificar los próximos pasos. A diferencia del Sprint Planning, que se enfoca en la planificación del trabajo futuro, el Sprint Review se centra en evaluar lo que se ha logrado y ajustar el rumbo según sea necesario.
+# Introducción
+
+El Sprint Review es una reunión que se realiza al final de cada sprint para revisar el trabajo completado, obtener feedback de los stakeholders y planificar los próximos pasos.
 
 ## Objetivos del Sprint Review
 

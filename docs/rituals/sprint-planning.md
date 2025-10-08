@@ -23,7 +23,6 @@ El Sprint Planning es una reunión que se lleva a cabo al inicio de cada sprint 
 
 ## Estructura del Sprint Planning
 
-
 1. **Revisión del backlog**: El Product Owner presenta los elementos del backlog que se consideran para el sprint, explicando su importancia y contexto.
 2. **Definición del objetivo del sprint**: El equipo y el Product Owner acuerdan un objetivo claro y alcanzable para el sprint.
 3. **Selección de tareas**: El equipo selecciona los elementos del backlog que se comprometen a completar durante el sprint, basándose en su capacidad y en la prioridad establecida.
