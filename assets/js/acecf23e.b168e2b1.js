@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkquoota_docs=globalThis.webpackChunkquoota_docs||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/quoota-docs/blog","blogTitle":"Blog","authorsListPath":"/quoota-docs/blog/authors"}')}}]);
